@@ -6,11 +6,11 @@ metadata:
 spec:
   vars:
   - name: repoURL
-    value: https://github.com/Timpan4/kargo-simple.git
+    value: https://github.com/timpan4/kargo-simple.git
   - name: branch
     value: main
   - name: image
-    value: ghcr.io/Timpan4/guestbook
+    value: ghcr.io/timpan4/guestbook
   - name: openpr
     value: "false"
   steps:

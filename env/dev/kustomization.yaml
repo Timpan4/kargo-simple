@@ -7,5 +7,5 @@ resources:
 namespace: guestbook-simple-dev
 
 images:
-- name: ghcr.io/Timpan4/guestbook
+- name: ghcr.io/timpan4/guestbook
   newTag: v0.0.1

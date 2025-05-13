@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/Timpan4/guestbook
+      repoURL: ghcr.io/timpan4/guestbook
       imageSelectionStrategy: SemVer
